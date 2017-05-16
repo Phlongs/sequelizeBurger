@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomtom28/burger.git"
+    "url":
   },
-  "author": "tomtom28",
+  "author":
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tomtom28/burger/issues"
+    "url":
   },
-  "homepage": "https://github.com/tomtom28/burger#readme",
+  "homepage": 
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
